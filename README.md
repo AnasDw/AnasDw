@@ -30,7 +30,7 @@ I'm open to collaboration on exciting projects! Whether it's web development, ga
 ## 📫 How to Reach Me
 
 - **GitHub:** [AnasDw](https://github.com/AnasDw)
-- **LinkedIn:** [Anas Dweik]([www.linkedin.com/in/anasdweik])
+- **LinkedIn:** [Anas Dweik](www.linkedin.com/in/anasdweik)
 - **Email:** anas.e.dweik@gmail.com
 
 Let's build something amazing together!
