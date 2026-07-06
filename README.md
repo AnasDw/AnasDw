@@ -1,36 +1,40 @@
-# 👋 Hi there, I'm Anas Dweik! 
+# 👋 Hi there, I'm Anas Dweik
 
-I'm a third-year Computer Science student with a passion for Full Stack development. I love bringing creative designs to life and building interactive websites. When I'm not coding, you can find me immersed in video games or exploring new and exciting food options.
+I'm a Full Stack AI Engineer with experience building and shipping AI powered products end to end, from prompt to production. I like turning ideas into real tools that solve real problems, especially at the intersection of software and hardware.
+
+## 💼 Experience
+
+**Full Stack AI Engineer @ Genway AI** (2024 - 2026)
+Joined as employee #5 at an early stage startup. Owned development across frontend, backend, background workers, and deployment. Built LLM powered features, async processing pipelines, and observability systems used in production.
 
 ## 🔧 Skills
 
-- **Languages:** HTML, CSS, SCSS, JavaScript, Python, C++, C
-- **Frameworks:** React, Node.js, Express
-- **Database:** MongoDB, FireBase
-- **Tools:** Git, VS Code
-- **Design:** Figma
+- **Languages:** TypeScript, JavaScript, Python, C++, C
+- **Frontend:** React, Next.js, HTML, CSS, SCSS
+- **Backend:** Node.js, Express, FastAPI, Flask
+- **AI / LLM:** OpenAI, Anthropic, LangChain, RAG, Vector DBs, AI agents
+- **Databases:** PostgreSQL, Redis, MongoDB, Firebase
+- **Infra & DevOps:** Docker, Kubernetes, AWS, GCP, Celery, RabbitMQ
+- **Observability:** Datadog, Grafana, PostHog
+- **Tools:** Git, VS Code, Figma
 
-## 🌱 Currently Learning
+## 🚀 What I'm Building
 
-I'm always on the lookout for the latest technologies. Currently, I'm diving deeper into:
+- **RADD** - a multi tenant AI assistant platform for WhatsApp, built for Palestinian and Arab small businesses
+- **Blind Bridge** - a Raspberry Pi hardware device that cuts blind motor calibration time on large construction sites
 
-- Advanced UI/UX concepts
-- Next.js && TypeScript
+## 🌱 Currently Exploring
 
-
-## 💻 Projects
-
-Feel free to explore my repositories for more!
-
+- AI agent frameworks and multi agent systems
+- Vector search and RAG at scale
+- Hardware / software integration projects
 
 ## 🤝 Let's Collaborate
 
-I'm open to collaboration on exciting projects! Whether it's web development, game development, or anything in between, I'm eager to contribute and learn. If you have a project in mind or just want to connect, don't hesitate to reach out.
+Open to collaborating on AI products, full stack projects, or hardware software integrations. If you have something interesting in mind, reach out.
 
 ## 📫 How to Reach Me
 
 - **GitHub:** [AnasDw](https://github.com/AnasDw)
-- **LinkedIn:** (www.linkedin.com/in/anasdweik)
+- **LinkedIn:** [anasdweik](https://www.linkedin.com/in/anasdweik)
 - **Email:** anas.e.dweik@gmail.com
-
-Let's build something amazing together!
